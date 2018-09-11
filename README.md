@@ -1,2 +1,2 @@
 # docs
-documents
+my private documents
