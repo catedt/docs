@@ -1,2 +1,2 @@
-# docs
+# examples
 program examples
