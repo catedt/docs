@@ -1,2 +1,2 @@
 # docs
-my private documents
+program examples
